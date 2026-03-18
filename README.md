@@ -97,10 +97,10 @@ After optimization, the desired behaviour becomes an **intrinsic property of the
 
 ---
 
-## Author
+## Authors
 
-Francesco Ardrizzini
-Tutor: Prof. Joseph Morlier
+- Francesco Ardrizzini
+- Tutor: Prof. Joseph Morlier
 
 ---
 
