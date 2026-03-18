@@ -101,9 +101,3 @@ After optimization, the desired behaviour becomes an **intrinsic property of the
 
 - Francesco Ardrizzini
 - Tutor: Prof. Joseph Morlier
-
----
-
-## 📎 Keywords
-
-Mechanical Neural Networks, FEM, Piezoelectric Actuation, Structural Optimization, Morphing Structures
